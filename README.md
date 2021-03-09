@@ -5,6 +5,7 @@ Language:
 
 *Local variables.
 *Functions, If-Else , Switch , While , Do-While,For Loop , Return , Break , 1D & 2D array (Will be implemented soon).
+
 *All operators(ex Arithmetics , Logical(.
 
 Implementation:
